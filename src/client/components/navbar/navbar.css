@@ -1,0 +1,11 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ant-dropdown-menu-item {
+  padding: 13px 50px;
+  top: 14px;
+}
